@@ -88,35 +88,35 @@ Frontend: React
 
 Окно авторизации в приложении.
 
-![Окно авторизации в приложении](https://github.com/fxynix/SigmaMusicCatalog/blob/main/Mockups/LoginMockup.png)
+![Окно авторизации в приложении](../Mockups/LoginMockup.png)
 
 Список треков в каталоге.
 
-![Список треков в каталоге](https://github.com/fxynix/SigmaMusicCatalog/blob/main/Mockups/TrackListMockup.png)
+![Список треков в каталоге](../Mockups/TrackListMockup.png)
 
 Окно добавления трека.
 
-![Окно добавления трека](https://github.com/fxynix/SigmaMusicCatalog/blob/main/Mockups/TrackCreationMockup.png)
+![Окно добавления трека](../Mockups/TrackCreationMockup.png)
 
 Окно подтверждения удаления трека.
 
-![Окно подтверждения удаления трека](https://github.com/fxynix/SigmaMusicCatalog/blob/main/Mockups/TrackDeleteConfirmationMockup.png)
+![Окно подтверждения удаления трека](../Mockups/TrackDeleteConfirmationMockup.png)
 
 Список исполнителей в каталоге.
 
-![Список исполнителей в каталоге](https://github.com/fxynix/SigmaMusicCatalog/blob/main/Mockups/ArtistListMockup.png)
+![Список исполнителей в каталоге](../Mockups/ArtistListMockup.png)
 
 Список альбомов в каталоге.
 
-![Список альбомов в каталоге](https://github.com/fxynix/SigmaMusicCatalog/blob/main/Mockups/AlbumListMockup.png)
+![Список альбомов в каталоге](../Mockups/AlbumListMockup.png)
 
 Список жанров в каталоге.
 
-![Список жанров в каталоге](https://github.com/fxynix/SigmaMusicCatalog/blob/main/Mockups/GenreListMockup.png)
+![Список жанров в каталоге](../Mockups/GenreListMockup.png)
 
 Список плейлистов в каталоге.
 
-![Список плейлистов в каталоге](https://github.com/fxynix/SigmaMusicCatalog/blob/main/Mockups/PlaylistListMockup.png)
+![Список плейлистов в каталоге](../Mockups/PlaylistListMockup.png)
 
 <a name="user_specifications"/>
 
