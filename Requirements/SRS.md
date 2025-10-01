@@ -88,7 +88,11 @@ Frontend: React
 
 Окно авторизации в приложении.
 
-![Окно авторизации в приложении](../Mockups/LoginMockup.png)
+![Окно авторизации в приложении](../Mockups/LogInMockup.png)
+
+Окно ошибки авторизации при неверном логине или пароле.
+
+![Окно ошибки авторизации](../Mockups/WrongLoginOrPasswordMockup.png)
 
 Список треков в каталоге.
 
@@ -117,6 +121,14 @@ Frontend: React
 Список плейлистов в каталоге.
 
 ![Список плейлистов в каталоге](../Mockups/PlaylistListMockup.png)
+
+Окно регистрации.
+
+![Окно регистрации](../Mockups/SignUpMockup.png)
+
+Окно ошибки занятого логина регистрации.
+
+![Окно ошибки занятого логина регистрации](../Mockups/LoginIsOccupiedMockup.png)
 
 <a name="user_specifications"/>
 
